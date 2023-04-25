@@ -15,3 +15,23 @@
   <!-- Создание счетчика просмотров -->
   </div>
       <img src="https://komarev.com/ghpvc/?username=Katringrr&style=flat-square&color=blue" alt=""/>
+<!-- Создание нового раздела -->
+  
+--- 
+  
+### :woman_technologist: Обо мне :  
+<div align="left"> 
+  
+- Python (библиотеки pandas, numpy, matplotlib, seaborn, scipy, scikit-learn), Git, командная строка;
+
+- SQL для работы с аналитическими базами данных, опыт работы с ClickHouse, MySQL;
+
+- Знание ML-алгоритмов, умение применять их для решения аналитических задач;
+
+- Знание статистики и теории вероятностей;
+  
+- Опыт проведения A/B-тестов;
+  
+- Навыки визуализации данных и работы с BI-системами (Tableau, Redash, SuperSet).
+  
+---
