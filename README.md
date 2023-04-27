@@ -15,10 +15,10 @@
   <!-- Создание счетчика просмотров -->
   </div>
       <img src="https://komarev.com/ghpvc/?username=Katringrr&style=flat-square&color=blue" alt=""/>
-<!-- Создание нового раздела -->
   
 --- 
-  
+
+<!-- Создание биографического раздела -->  
 ### :woman_technologist: Обо мне :  
 <div align="left"> 
   
@@ -33,9 +33,11 @@
 - Опыт проведения A/B-тестов;
   
 - Навыки визуализации данных и работы с BI-системами (Tableau, Redash, SuperSet).
+</div>  
   
 ---
-
+  
+<!-- Создание списка инструментов -->
 ### Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,4 +49,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg" title="SuperSet" alt="SuperSet" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="SuperSet" width="40" height="40"/>&nbsp;
+</div>
+
+---
+  
+<!-- Создание статистики моего гитхаба -->  
+### My Stats : 
+<div align="center">  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katringrr&theme=swift)](https://git.io/streak-stats)
 </div>
