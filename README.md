@@ -5,10 +5,6 @@
   <div id="badges">
     <a href="https://t.me/katringrr">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.instagram.com/katrin_grr">
-      <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
     <a href="https://vk.com/next_katerina">
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
