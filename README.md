@@ -1,6 +1,6 @@
 <!-- Создание гифки в шапке профиля-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRlMjYyYzM4MjIyN2E3YTNmODNhZjk1OGY2ZTYxMGY2NTlhZTA5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3vQX4BAzmmXX6hBC/giphy.gif" width="100"/>
+  <img src="Avatarka.gif" width="200"/>
   <!-- Создание блока с ссылками на соц.сети -->
   <div id="badges">
     <a href="https://t.me/katringrr">
